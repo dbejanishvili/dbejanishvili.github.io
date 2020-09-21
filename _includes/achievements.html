@@ -1,7 +1,7 @@
 
 <div class="container education-container">
     <h3>{{ site.education_title | default: "Achievements" }}</h3>
-    {% for education in site.data.achievements %}
-      {% include {{ achievements.layout | default: 'left' | append: ".html" }} item=achievements %}
+    {% for achievement in site.data.achievements %}
+      {% include {{ achievement.layout | default: 'left' | append: ".html" }} item=achievement %}
     {% endfor %}
   </div>
