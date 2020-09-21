@@ -9,6 +9,7 @@ email: datobejanishvili@gmail.com
 
 # Social links
 github_username:  dbejanishvili
+stackoverflow_username: "1724663"
 linkedin_username: davit-bezhanishvili
 facebook_username: dato.bejanishvili.1
 instagram_username: datobejanishvili
@@ -34,16 +35,9 @@ educaton_title: Education
 achievements_title: Achievements
 
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Maths and software engineering some of my other interests and hobbies are:
-   - 
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
