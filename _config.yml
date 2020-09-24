@@ -17,10 +17,10 @@ facebook_username: dato.bejanishvili.1
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's David and I'm a Software developer. I mainly work on desktop applications, but I've also had a lot of experience writing websites, web scrapping applications, DAPPs, machine learning models and so on. 
+  Over the years I've been working on programming tasks of a wide variety. I've been learning algorithms for 8 years and teaching them for 4, in the process I have learned how to write quality code with minimal errors and optimal performance.
+  I have been developing my problem-solving skills for over 8 years. I've participated in IMO(International Mathematical Olympiad) 2 times, have won national Olympiad in math 3 times, have been awarded bronze and silver medals in IZhO ( International Zhautikov Olympiad).
+  
 # Projects Section
 projects_title: Projects
 
