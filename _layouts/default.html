@@ -27,19 +27,19 @@
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
-<!-- 
+
       {%- if site.data.achievements.size > 0 -%}
         {%- include achievements.html -%}
-      {%- endif -%} -->
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
       {%- endif -%}
+
+      <!-- {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%} -->
 
     </div>
   </main>
 
-  {%- include footer.html -%}
+  <!-- {%- include footer.html -%} -->
   {% if site.darkmode == false %}
     <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
   {% endif %}
