@@ -2,6 +2,9 @@
 repository: dbejanishvili/dbejanishvili.github.io
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 1
+
 # Personal info
 name: David Bezhanishvili
 title: Software Developer
