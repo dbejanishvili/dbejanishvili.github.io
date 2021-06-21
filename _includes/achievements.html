@@ -1,7 +1,0 @@
-
-<div class="container education-container">
-    <h3>{{ site.achievement_title | default: "Achievements" }}</h3>
-    {% for achievement in site.data.achievements %}
-      {% include {{ achievement.layout | default: 'left' | append: ".html" }} item=achievement %}
-    {% endfor %}
-  </div>
