@@ -44,14 +44,6 @@
     This project was a part of my 2018-19 internship training at Birtvi, a georgian software company focused on building projects on Blockchain. It was a simple election website based on Etherium platform.
 
 - layout: top-middle
-  name: ProChess
-  # link: github.com/Rogavactive/ProChess
-  github: Rogavactive/ProChess
-  description: | # this will include new lines to allow paragraphs
-    A simple chess platform written as a part of a final project for OOP course in university.
-
-
-- layout: top-middle
   name: Imagine
   description: | # this will include new lines to allow paragraphs
     "Imagine" is a marketing platform that provides real time demographic evaluation of surrounding audience and optimises advertisements based on public present. It also provides statistics around each location and lets companies construct different campaigns around advertisements. This platform is still in development.
