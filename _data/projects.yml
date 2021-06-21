@@ -1,6 +1,6 @@
 - layout: top-middle
   name: E2E encryption plugin for Mattermost
-  link: github.com/bakurits/mattermost-plugin-anonymous
+  # link: github.com/bakurits/mattermost-plugin-anonymous
   github: bakurits/mattermost-plugin-anonymous
   description: | # this will include new lines to allow paragraphs
     I started this project as a University Open-Source course assignment. It was a great opportunity to get to know a new language, and open source programming in general. The project provided end-to-end encryption for mattermost messaging platform and was well received by mattermost community.
@@ -12,14 +12,14 @@
 
 - layout: top-middle
   name: MPLib
-  link: github.com/OP-Solutions/MPLib
+  # link: github.com/OP-Solutions/MPLib
   github: OP-Solutions/MPLib
   description: | # this will include new lines to allow paragraphs
     MPLib (Mental Poker Library) is open source decentralized gambling library written in c# (.Netstandard 2).Main feature of this library is decentralized structure. The game process is completely serverless, clients are connected directly to each other and communicating without trusted 3rd party. This project is currently under development.
   
 - layout: top-middle
   name: Mavis
-  link: github.com/OP-Solutions/Mavis-IOS-SDK
+  # link: github.com/OP-Solutions/Mavis-IOS-SDK
   github: OP-Solutions/Mavis-IOS-SDK
   description: | # this will include new lines to allow paragraphs
     Mavis SDK is a library that makes it possible to add AR experiences to existing Android/IOS applications. That is, it can recognize objects in camera view (real-time) by analyzing pre-defined images (for instance, credit card visuals). Upon recognizing an image Mavis draws various 3D and 2D objects around it.
@@ -39,14 +39,14 @@
 
 - layout: top-middle
   name: Decentralized Election Website
-  link: github.com/bakurits/Election
+  # link: github.com/bakurits/Election
   github: bakurits/Election
   description: | # this will include new lines to allow paragraphs
     This project was a part of my 2018-19 internship training at Birtvi, a georgian software company focused on building projects on Blockchain. It was a simple election website based on Etherium platform.
 
 - layout: top-middle
   name: ProChess
-  link: github.com/Rogavactive/ProChess
+  # link: github.com/Rogavactive/ProChess
   github: Rogavactive/ProChess
   description: | # this will include new lines to allow paragraphs
     A simple chess platform written as a part of a final project for OOP course in university.
