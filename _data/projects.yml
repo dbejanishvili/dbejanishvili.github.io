@@ -24,7 +24,6 @@
   description: | # this will include new lines to allow paragraphs
     Mavis SDK is a library that makes it possible to add AR experiences to existing Android/IOS applications. That is, it can recognize objects in camera view (real-time) by analyzing pre-defined images (for instance, credit card visuals). Upon recognizing an image Mavis draws various 3D and 2D objects around it.
 
-
 - layout: top-middle
   name: Gepherrini
   link: gepherrini.com
@@ -57,4 +56,9 @@
   description: | # this will include new lines to allow paragraphs
     "Imagine" is a marketing platform that provides real time demographic evaluation of surrounding audience and optimises advertisements based on public present. It also provides statistics around each location and lets companies construct different campaigns around advertisements. This platform is still in development.
 
-
+- layout: top-middle
+  name: Store Scrapper
+  # link: github.com/bakurits/StoreScraper
+  github: bakurits/StoreScraper
+  description: | # this will include new lines to allow paragraphs
+    Store Scrapper is desktop application that crawls a predefined list of websites (mainly online stores) and scrapes the contents of said websites for local viewing. Information such as product stocks, prices and release dates become available for the user in one location. 
