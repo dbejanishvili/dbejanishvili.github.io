@@ -1,54 +1,54 @@
-- layout: top-middle
+- layout: left
   name: E2E encryption plugin for Mattermost
   # link: github.com/bakurits/mattermost-plugin-anonymous
   github: bakurits/mattermost-plugin-anonymous
   description: | # this will include new lines to allow paragraphs
     I started this project as a University Open-Source course assignment. It was a great opportunity to get to know a new language, and open source programming in general. The project provided end-to-end encryption for mattermost messaging platform and was well received by mattermost community.
 
-- layout: top-middle
+- layout: left
   name: Splunk plugin for Mattermost
   description: | # this will include new lines to allow paragraphs
     This project was continuation of end-to-end encryption plugin for mattermost. It started as a bounty program hosted by mattermost team and provided a plugin that integrated splunk platform functionality into mattermost.
 
-- layout: top-middle
+- layout: left
   name: MPLib
   # link: github.com/OP-Solutions/MPLib
   github: OP-Solutions/MPLib
   description: | # this will include new lines to allow paragraphs
     MPLib (Mental Poker Library) is open source decentralized gambling library written in c# (.Netstandard 2).Main feature of this library is decentralized structure. The game process is completely serverless, clients are connected directly to each other and communicating without trusted 3rd party. This project is currently under development.
   
-- layout: top-middle
+- layout: left
   name: Mavis
   # link: github.com/OP-Solutions/Mavis-IOS-SDK
   github: OP-Solutions/Mavis-IOS-SDK
   description: | # this will include new lines to allow paragraphs
     Mavis SDK is a library that makes it possible to add AR experiences to existing Android/IOS applications. That is, it can recognize objects in camera view (real-time) by analyzing pre-defined images (for instance, credit card visuals). Upon recognizing an image Mavis draws various 3D and 2D objects around it.
 
-- layout: top-middle
+- layout: left
   name: Gepherrini
   link: gepherrini.com
   description: | # this will include new lines to allow paragraphs
     Gepherrini is an online shop written by georgian software company "connect". Taking on this project was an opportunity to try out a new programming language and also get some experience in server management
 
-- layout: top-middle
+- layout: left
   name: Tbilisi World Book Capital
   link: twbc.ge
   description: | # this will include new lines to allow paragraphs
     World Book Capital is a project of the United Nations Education, Scientific and Cultural Organization (UNESCO). Since April 23, 2021, Tbilisi has assumed this honorable status for exactly one year. Twbc.ge is a website for said event. Taking on this project was very interesting, considering i had to learn working with a new framework, also it was a good practice in already familiar frameworks such as React.
 
-- layout: top-middle
+- layout: left
   name: Decentralized Election Website
   # link: github.com/bakurits/Election
   github: bakurits/Election
   description: | # this will include new lines to allow paragraphs
     This project was a part of my 2018-19 internship training at Birtvi, a georgian software company focused on building projects on Blockchain. It was a simple election website based on Etherium platform.
 
-- layout: top-middle
+- layout: left
   name: Imagine
   description: | # this will include new lines to allow paragraphs
     "Imagine" is a marketing platform that provides real time demographic evaluation of surrounding audience and optimises advertisements based on public present. It also provides statistics around each location and lets companies construct different campaigns around advertisements. This platform is still in development.
 
-- layout: top-middle
+- layout: left
   name: Store Scrapper
   # link: github.com/bakurits/StoreScraper
   github: bakurits/StoreScraper
