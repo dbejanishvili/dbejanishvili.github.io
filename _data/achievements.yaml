@@ -1,4 +1,4 @@
-- layout: right
+- layout: left
   name: International Mathematical Olympiad
   link: imo-official.org
   jobs: 
@@ -7,11 +7,10 @@
     - title: Team member
       dates: 2015 - 2016
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    IMO was the main goal for my school years. The ultimate math competition for brightest of minds, extremely complex problems with elegant solutions. I am very proud to have represented my country on such an event. 
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: left
+- layout: right
   name: International Zhautikov Olympiad
   link: izho.kz/
   jobs: 
@@ -22,11 +21,9 @@
     - title: Silver medal in Mathematics 
       dates: 2016
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Being dialed down version of IMO and IOI, Zhautikov Olympiad was very challenging and very interesting. Competing against exceptional students of other exceptional schools, finding solutions for complex problems, it was all very exciting.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-- layout: right
+- layout: left
   name: National Olympiad in Mathematics
   jobs: 
     - title: First place 
@@ -36,26 +33,22 @@
     - title: Third place
       dates: 2012 - 2013
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Competing against every bright mind in the country was always very exciting. It was also a milestone towards becoming a member for the national IMO team, so i was always looking forward to this competition.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-- layout: left
+- layout: right
   name: ACM-ICPC
   link: icpc.global
   jobs: 
     - title: Semifinalist 
       dates: 2016 - 2017, 2017 - 2018, 2018 - 2019
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    ACM is one of the most prestigious programming competitions for college students around the world. It was an honor representing my university on such an event. 
 
-- layout: right
+- layout: left
   name: Google Hashcode
   link: codingcompetitions.withgoogle.com/hashcode
   jobs: 
     - title: Finalist waitlist 
       dates: 2019
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Competing on Hashcode was very interesting. The format of the competition was very different from the ones I was used to. Getting this far was very exciting.

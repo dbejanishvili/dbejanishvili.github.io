@@ -3,15 +3,20 @@
   dates: 2016 - 2020
   qualification: BSc in Maths and Computer Science
   description: | # this will include new lines to allow paragraphs
-    During my time at Free University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    During my time at Free University I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. The road to becoming a bachelor was tough, but I'm glad I had the opportunity to study at the best university in Georgia. 
 
 - layout: left
   name: Tbilisi N42 Public School of Physics–Mathematics
   dates: 2011 - 2016
   qualification: High School diploma
   description: | # this will include new lines to allow paragraphs
-    During my time at Free University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Applying to "Vekua" (as they call N42 school in Georgia) was a real turning point in my life. The atmosphere was radically different from the school i relocated from, it was organised, it was interesting and best of all, it was challenging. I learnt a lot during my time there, 
+    it helped me choose a direction in life. 
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: right
+  name: IT center MZIURI
+  dates: 2013 - 2016
+  qualification: IT certificate
+  description: | # this will include new lines to allow paragraphs
+    "MZIURI" is a small IT Center in Tbilisi, that also happens to be the best place to learn competitive programming in Georgia. It has best teachers and best students. The environment is super competitive and effective in doing what it does. 
+    It was the primary source of programming knowledge in my early years and I'm happy to have had attended this school.
