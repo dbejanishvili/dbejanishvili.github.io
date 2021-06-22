@@ -1,5 +1,6 @@
-- layout: left
+- layout: top-middle
   name: ACM-ICPC
+  link: icpc.global
   jobs: 
     - title: Semifinalist 
       dates: 2018 - 2019
@@ -11,8 +12,9 @@
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: left
+- layout: top-middle
   name: Google Hashcode
+  link: codingcompetitions.withgoogle.com/hashcode
   jobs: 
     - title: Finalist waitlist 
       dates: 2019
@@ -20,8 +22,9 @@
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: left
+- layout: top-middle
   name: International Mathematical Olympiad
+  link: imo-official.org
   jobs: 
     - title: Honourable mention 
       dates: 2016 - 2017
@@ -32,8 +35,9 @@
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: left
+- layout: top-middle
   name: International Zhautikov Olympiad
+  link: izho.kz/
   jobs: 
     - title: Bronze medal in Mathematics 
       dates: 2014
@@ -46,7 +50,7 @@
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: left
+- layout: top-middle
   name: National Olympiad in Mathematics
   jobs: 
     - title: First place 
