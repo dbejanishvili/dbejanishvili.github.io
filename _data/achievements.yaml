@@ -1,4 +1,4 @@
-- layout: top
+- layout: top-middle
   name: International Mathematical Olympiad
   link: imo-official.org
   jobs: 
@@ -10,7 +10,7 @@
     IMO was the main goal for my school years. The ultimate math competition for brightest of minds, extremely complex problems with elegant solutions. I am very proud to have represented my country on such an event. 
 
 
-- layout: top
+- layout: top-middle
   name: International Zhautikov Olympiad
   link: izho.kz/
   jobs: 
@@ -23,7 +23,7 @@
   description: | # this will include new lines to allow paragraphs
     Being dialed down version of IMO and IOI, Zhautikov Olympiad was very challenging and very interesting. Competing against exceptional students of other exceptional schools, finding solutions for complex problems, it was all very exciting.
 
-- layout: top
+- layout: top-middle
   name: National Olympiad in Mathematics
   jobs: 
     - title: First place 
@@ -35,7 +35,7 @@
   description: | # this will include new lines to allow paragraphs
     Competing against every bright mind in the country was always very exciting. It was also a milestone towards becoming a member for the national IMO team, so i was always looking forward to this competition.
 
-- layout: top
+- layout: top-middle
   name: ACM-ICPC
   link: icpc.global
   jobs: 
@@ -44,7 +44,7 @@
   description: | # this will include new lines to allow paragraphs
     ACM is one of the most prestigious programming competitions for college students around the world. It was an honor representing my university on such an event. 
 
-- layout: top
+- layout: top-middle
   name: Google Hashcode
   link: codingcompetitions.withgoogle.com/hashcode
   jobs: 
