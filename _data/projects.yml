@@ -8,7 +8,7 @@
 - layout: right
   name: Splunk plugin for Mattermost
   description: | # this will include new lines to allow paragraphs
-    This project was continuation of end-to-end encryption plugin for mattermost. It started as a bounty program hosted by mattermost team and provided a plugin that integrated splunk platform functionality into mattermost.
+    This project is a continuation of end-to-end encryption plugin for mattermost. It started as a bounty program hosted by mattermost team and provided a plugin that integrated splunk platform functionality into mattermost.
 
 - layout: left
   name: MPLib
