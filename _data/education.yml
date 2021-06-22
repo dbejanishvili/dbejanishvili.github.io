@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Free University of Tbilisi
   dates: 2016 - 2020
   qualification: BSc in Maths and Computer Science
@@ -7,8 +7,8 @@
 
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-- layout: top-middle
-  name: LEPL Tbilisi N42 Public School of Physics–Mathematics Named After Academician Ilia Vekua
+- layout: left
+  name: Tbilisi N42 Public School of Physics–Mathematics
   dates: 2011 - 2016
   qualification: High School diploma
   description: | # this will include new lines to allow paragraphs
