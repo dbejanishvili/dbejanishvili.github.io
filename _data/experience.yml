@@ -1,26 +1,56 @@
 - layout: left
+  company: Tipalti
+  link: www.purestorage.com/
+  job_title: Member of technical staff
+  dates: May 2024 – Present
+  description: | # this will include new lines to allow paragraphs
+    Since May 2024, I’ve been working as a Software Engineer at Tipalti’s Tbilisi office, where I design, develop, test, and maintain a suite of .NET microservices that power our payment automation platform. 
+    Operating within an event-driven architecture, I implement robust data persistence strategies—crafting database schemas, message handlers, and retry logic—to ensure no transaction is ever lost. 
+    I also continuously profile and tune these services under high-throughput conditions, collaborating with DevOps and product teams to deliver scalable, reliable, and high-performance payment workflows.
+
+- layout: right
+  company: Pure Storage
+  link: www.purestorage.com/
+  job_title: Member of technical staff
+  dates: September 2023 – December 2023
+  description: | # this will include new lines to allow paragraphs
+    I served as a Member of Technical Staff at Pure Storage’s Prague office, where I led the enhancement and upkeep of our CI/CD pipelines.
+    I evaluated existing workflows, implemented automation improvements, and integrated new tooling to accelerate deployment cycles while preserving stability. 
+    In parallel, I contributed to backend service development—authoring and testing microservices in both Java and Go. I wrote unit and integration tests, diagnosed performance bottlenecks to ensure our services met rigorous reliability and scalability standards
+
+- layout: left
+  company: Microsoft
+  link: www.microsoft.com
+  job_title: Software Developer Contractor
+  dates: December 2021 – September 2023
+  description: | # this will include new lines to allow paragraphs
+    Through a talent aquisition company ITechTalents, I remotely worked as a Software Developer Contractor for Microsoft's Bing division, where I built and maintained data-processing solutions using C# and SQL. 
+    In that role, I designed and optimized ETL pipelines to ingest, transform, and validate large volumes of business data, ensuring accuracy and performance at scale. 
+    I also developed client-side functionality with JavaScript—creating interactive web components, debugging complex browser behaviors, and collaborating closely with UX designers and backend engineers to deliver seamless, user-friendly experiences.
+
+- layout: right
   company: Op Solutions Georgia
   link: linkedin.com/company/opsolutions-georgia
   job_title: Co-founder & CEO
-  dates: May 2019 – Present
+  dates: May 2019 – February 2022
   description: | # this will include new lines to allow paragraphs
     Op Solutions is a Georgian software company founded by me and a couple of my friends. We are working on a variety of projects, ranging from simple e-commerce to more complex fields such as machine learning and blockchain.
     Since we are a young company, most of our projects are owned by external parties, but we have some in house projects as well. 
     Starting a company from scratch is a very hard task, but thanks to our skill and dedication we seem to have found some success.
 
-- layout: right
+- layout: left
   company: Free University of Tbilisi
   link: http://www.freeuni.edu.ge/en
   jobs:   
     - title: Seminar instructor in Programming Paradigms
-      dates: September 2020 – Present
+      dates: September 2020 – September 2021
     - title: Assistant to a lecturer in Programming Methodologies
       dates: September 2017 – February 2018
   description: | # this will include new lines to allow paragraphs
     Free university is a hub for the most skilled and smart students around Georgia, so being asked to be a lecturer's assistant was an achievement in itself. Grading other students' work was a very good exercise in code review.
     Being asked to be a seminar instructor was an even bigger deal. It was a very good exercise in lower level programming, code review, planning and organization.
 
-- layout: left
+- layout: right
   company: Birtvi
   link: linkedin.com/company/birtvi8/
   job_title: Intern Blockchain developer
@@ -29,7 +59,7 @@
     "Birtvi" was a very brief but a very welcome experience. Even though it was only a couple of months, I got an opportunity to work with one of the most exciting aspects of modern programming, blockchain. 
     There I picked up the basics of blockchain architecture, enough to be able to write simple decentralised applications, which would become very handy in the future.
 
-- layout: right
+- layout: left
   company: IT center MZIURI
   link: http://www.mziuri.ge/
   job_title: Teacher of a group in Olympic Informatics
@@ -38,7 +68,7 @@
     "MZIURI" is a small IT Center in Tbilisi, that also happens to be the best place to learn competitive programming in Georgia. Working there helped me further hone my skills in problem solving and as a whole was a very beneficial experience.
     I got the opportunity to work with some of the brightest young students in the country which was also very exciting. 
 
-- layout: left
+- layout: right
   company: Tbilisi N42 Public School of Physics–Mathematics
   link: vekua42.edu.ge/ge
   job_title: Teacher of a group in Olympic Mathematics
@@ -47,7 +77,7 @@
     N42 Public School of Physics–Mathematics named after Ilia Vekua (along with Demireli collage) was my first try at being an educator. Along with a handful of other schools, Vekua is leading school in subjects such as maths, physics and informatics. 
     I started working there a year after graduating and continued working for 3 years. In these 3 years I helped prepare students for olympiads, likes of which I attended myself couple years ago. All and all, I think my time there was very beneficial.
 
-- layout: right
+- layout: left
   company: Private Demirel College
   job_title: Teacher of a group in Olympic Mathematics
   dates: September 2016 – June 2017
