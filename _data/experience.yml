@@ -1,7 +1,7 @@
 - layout: left
   company: Tipalti
   link: https://tipalti.com/
-  job_title: Software Engineed
+  job_title: Software Engineer
   dates: May 2024 – Present
   description: | # this will include new lines to allow paragraphs
     Since May 2024, I’ve been working as a Software Engineer at Tipalti’s Tbilisi office, where I design, develop, test, and maintain a suite of .NET microservices that power our payment automation platform. 
